@@ -14,6 +14,10 @@ BubbleRob model - a spherical two wheeled dynamic robot with proximity sensor .
 
 ![BubbleRob Simulation Scene](https://github.com/mecha-robo/BubbleRob-CoppeliaSim/blob/master/pictures/bobbleRob_croop.png)
 
+## Video
+
+https://youtu.be/HzhvehvdGoQ
+
 ## References
 
 * https://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm
