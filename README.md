@@ -8,11 +8,11 @@ BubbleRob robot tries to get out from obstacle surronding him.
 
 BubbleRob model - a spherical two wheeled dynamic robot with proximity sensor .
 
-[BubbleRob Model](https://github.com/mecha-robo/BubbleRob-CoppeliaSim/blob/master/pictures/bubbleRobWithObstacle.png)
+![BubbleRob Model](https://github.com/mecha-robo/BubbleRob-CoppeliaSim/blob/master/pictures/bubbleRobWithObstacle.png)
 
 ## Simulation
 
-[BubbleRob Simulation Scene](https://github.com/mecha-robo/BubbleRob-CoppeliaSim/blob/master/pictures/bobbleRob_croop.png)
+![BubbleRob Simulation Scene](https://github.com/mecha-robo/BubbleRob-CoppeliaSim/blob/master/pictures/bobbleRob_croop.png)
 
 ## References
 
